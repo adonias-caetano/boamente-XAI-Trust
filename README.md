@@ -1,10 +1,9 @@
-# boamente-XAI-Trust
-This repository provides scripts of the Boamente prototype, questionnaires regarding the Level of Trust, and quality of explanations provided by LIME. 
 
- # Comparative Analysis of BERT-Based and Generative Large Language Models for Detecting Suicidal Ideation: A Performance Evaluation Study
+ # Can mental health professionals trust AI-based systems to prevent suicide? Effects of educational intervention and explanations on trust
 
 <p align="center">
-This repository provides BERT codes used to identify suicidal ideation in non-clinical texts in Brazilian Portuguese.
+This repository provides codes of the Boamente prototype, questionnaires regarding the Level of Trust, and quality of explanations provided by LIME. 
+
 </p>
 
 <!-- PROJECT LOGO -->
@@ -22,13 +21,20 @@ This repository provides BERT codes used to identify suicidal ideation in non-cl
 * Google Colab
 * python pandas library
 * python unidecode library
-* python word_tokenize, stopwords, sent_tokenize (nltk) libraries
-* python wordcloud library
+* python random library
 * python matplotlib.pyplot library
 * python transformers library
-* python seaborn library
-* python imblearn.under_sampling library
-* python sklearn.model_selection library
+* python scipy.special library
+* python time library
+* python datetime library
+* python numpy library
+* python expit library
+* python TensorDataset library
+* python torch.utils.data library
+* python tqdm.notebook library
+* python matplotlib.patches library
+* python lime.lime_text import library
+* python gradio library
 
 ## 📖  Dataset
 
@@ -42,7 +48,7 @@ The AdamW optimizer was used to adjust parameters in the model, batch size of 16
 
 ## 🤖 Access our article in Review
 
-Article accepted for publication in the <a href="https://cadernos.ensp.fiocruz.br/ojs/index.php/csp"> <strong>Cadernos de Saúde Pública</strong></a>
+Article accepted for publication in the <a href="https://www.sciencedirect.com/journal/computers-in-human-behavior"> <strong>Computers in Human Behavior</strong></a>
 
 ### Paper Link 
 
