@@ -55,9 +55,9 @@ In this project, two prototypes of Boamente were developed using <a href="https:
 
 ## 🤖 Access our article in Review
 
-Article accepted for publication in the <a href="https://www.sciencedirect.com/journal/computers-in-human-behavior"> <strong>Computers in Human Behavior</strong></a>
+Paper submitted to <a href="https://www.sciencedirect.com/journal/international-journal-of-human-computer-studies"> <strong>International Journal of Human-Computer Studies</strong></a>
 
-### Paper Link 
+### [Paper Link]() 
 
 ## 👏 Contributing
  
