@@ -1,5 +1,5 @@
 
- # Can mental health professionals trust AI-based systems to prevent suicide? Effects of educational intervention and explanations on trust
+ # Human factors influencing mental health professionals' trust in an AI-based system for suicide prevention
 
 <p align="center">
 This repository provides codes of the Boamente prototype, questionnaires regarding the Level of Trust, and quality of explanations provided by LIME. 
