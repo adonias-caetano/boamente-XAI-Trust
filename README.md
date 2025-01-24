@@ -17,24 +17,27 @@ This repository provides codes of the Boamente prototype, questionnaires regardi
 <div align="justify">
 
  ## 📋 Requirements
-
 * Google Colab
 * python pandas library
+* python re library
 * python unidecode library
 * python random library
+* python word_tokenize, stopwords, sent_tokenize (nltk) libraries
+* python wordcloud library
 * python matplotlib.pyplot library
 * python transformers library
-* python scipy.special library
-* python time library
+* python seaborn library
+* python imblearn.under_sampling library
+* python sklearn.model_selection library
+* python BertTokenizer, BertForSequenceClassification (transformers) libraries
+* python sklearn.model_selection library
 * python datetime library
 * python numpy library
-* python expit library
-* python TensorDataset library
-* python torch.utils.data library
+* python scipy.special library
+* python TensorDataset, DataLoader, RandomSampler, SequentialSampler (torch) libraries
 * python tqdm.notebook library
-* python matplotlib.patches library
-* python lime.lime_text import library
 * python gradio library
+* python lime.lime_text library
 
 ## 📖  Dataset
 
